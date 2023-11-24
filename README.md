@@ -1,11 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
 Hello, I'm Mathis ! 👋
 
 I'm Mathis, 22,Electronics technician & Third year computer science student. Ex React/cloud developer in data engineering cursus in engineer school TELECOM.
 Currently, I'm in the process of obtaining my Licence's degree in computer science and am dedicated to expanding my expertise across a diverse range of programming languages and tools.
 
-🎓 Education
+# 🎓 Education
   - STI2D High School Degree - Specialized in Technological Innovation and Sustainable Development Option Numeric Sysem
   - Numeric Systems : Electronics & Communication - Associate Degree
   - Computer Science  Associate Degree - Higher National Diploma
