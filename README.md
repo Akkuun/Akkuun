@@ -48,6 +48,10 @@ The majority of my personal and professional projects are on my GitHub repositor
 ## 📬 Get in Touch
 
 GitHub: @Akkuun
+
 LinkedIn: https://www.linkedin.com/in/mathis-duban-b15957236/
+
 Email: mathisduban.pro@gmail.com
+
+
 I'm always open to new collaborations, projects, or just a friendly chat!
