@@ -1,7 +1,7 @@
 # Hello, I'm Mathis ! 👋
 
-I'm Mathis, 22,Electronics technician & Third year computer science student. Ex React/cloud developer in data engineering cursus in engineer school TELECOM.
-Currently, I'm in the process of obtaining my Licence's degree in computer science and am dedicated to expanding my expertise across a diverse range of programming languages and tools.
+I'm Mathis, 23 years old, an Electronics technician & Master's Degree in computer science student. Ex React/Cloud developer in data engineering cursus in engineer school TELECOM.
+Currently, I'm in the process of getting my double Master's degree in computer science specialized in 3D computer graphics processing and Team Management. I am also dedicated to expanding my expertise across a diverse range of programming languages and tools such as DevOps or Web Developpment skills.
 
 ## 🎓 Education
   - **STI2D High School Degree** - Specialized in Technological Innovation and Sustainable Development Option Numeric Systems | Lycée Pierre Rouge | 2017-2019
@@ -9,6 +9,7 @@ Currently, I'm in the process of obtaining my Licence's degree in computer scien
   - **Computer Science  Associate Degree** - Higher National Diploma | I.U.T Montpellier | 2021-2022
   - **Engineer's Degree in Data Engineering in apprenticeship at Watts Electronics** | TELECOM Saint-Etienne | 2022-2023
   - **Bachelor of science in Computer Science** - Higher National Diploma | Faculty of Sciences of Montpellier | 2023-2024
+ - **Double Master's Degree specialized in 3D computer graphics processing and Team Management** - Master's Degree | Faculty of Sciences of Montpellier & University School of Managment | 2024-2026
 
 ## 💼 Work Experience
 
