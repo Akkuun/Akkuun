@@ -18,7 +18,7 @@ Currently, I'm in the process of getting my double Master's degree in computer s
   - **2021-2022 | Electronics technician | DataComSys** | Development of an energy control and management application for boaters. Creation of electronic cards, primarily using C programming.
 
 ## 🚀 Projects
-The majority of my personal and professional projects are on my GitHub repositories. Feel free to visit them for a more detailed look at what I do; all the details about these projects are in the READMEs/Wikis.
+The majority of my personal and professional projects are on my GitHub repositories. Feel free to visit them for a more detailed look at what I do; all the details about these projects are in the READMEs/Wikis. You can also [check my Website](https://Akkuun.github.io/PortFolio_React_Duban) to have a general view of them.
 
 ## 🔧 Skills & Tools
 **Languages :**
