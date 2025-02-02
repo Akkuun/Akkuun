@@ -1,6 +1,6 @@
 # Hello, I'm Mathis ! 👋
 
-I'm Mathis, 23 years old, an Electronics technician & Master's Degree in computer science student. Ex React/Cloud developer in data engineering cursus in engineer school TELECOM.
+I'm Mathis, 23 years old, an Electronics technician & Master's Degree in computer science student. Ex React/Cloud developer in data engineering.
 Currently, I'm in the process of getting my double Master's degree in computer science specialized in 3D computer graphics processing and Team Management. I am also dedicated to expanding my expertise across a diverse range of programming languages and tools such as DevOps or Web Developpment skills.
 
 ## 🎓 Education
