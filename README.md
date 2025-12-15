@@ -12,7 +12,7 @@ Currently, I'm in the process of getting my double Master's degree in computer s
   - **STI2D High School Degree** - Specialized in Technological Innovation and Sustainable Development Option Numeric Systems | Lycée Pierre Rouge | 2017-2019
 
 ## 💼 Work Experience
-  - **2024-2025 | Developer (C++) – XR / Real-Time — DreamCorp in apprenticeship** | C++ development on a customized Unreal Engine (XR, LED walls), internal 3D tools, Blender plugins, and R&D in AR and spatial interactions.
+  - **2024-2025 | Engine Developer (C++) — DreamCorp in apprenticeship** | C++ development on a customized Unreal Engine (XR, LED walls), internal 3D tools, Blender plugins, and R&D in AR for spatial interactions.
   - **2022-2023 | Data Engineer Junior |  Watts Electronics in apprenticeship** | Creation of a React project for web/mobile to manage user/device data from various Microsoft Azure clouds. Implementation of CI/CD tools for continuous deployment. Handling, monitoring, and statistical analysis of static and time-series data using the InfluxDB and Grafana tool. Advanced configuration of Linux servers. Processing and display of locations and statistics on dynamic 3D maps. Handling of large NoSQL databases.
   - **2022-2023 | Software Developer | Kloe France** | Development of C++ algorithms for software process optimizations related to scientific research industrial equipment. Implementation of new embedded system solutions. Handling of Linux Systems for optimization purposes. Development of camera libraries using Qt in C++. Maintenance of PHP-based websites.
   - **2021-2022 | Electronics technician | DataComSys** | Development of an energy control and management application for boaters. Creation of electronic cards, primarily using C programming.
