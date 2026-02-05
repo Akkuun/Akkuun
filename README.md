@@ -1,7 +1,6 @@
 # Hello, I'm Mathis ! 👋
 
-I'm Mathis, 23 years old, an Electronics technician & Master's Degree in computer science student. Ex React/Cloud developer in data engineering.
-Currently, I'm in the process of getting my double Master's degree in computer science specialized in 3D computer graphics processing and Team Management. I am also dedicated to expanding my expertise across a diverse range of programming languages and tools such as DevOps or Web Developpment skills.
+I'm Mathis, 24 years old, a 3D graphics engineer with a double Master's degree in Computer Science and Team Management from the Faculty of Science of Montpellier and IAE Montpellier. Former electronics technician, I am currently expanding my skills by independently exploring the possibilities of Vulkan.
 
 ## 🎓 Education
  - **Double Master's Degree specialized in 3D computer graphics processing and Team Management in apprenticeship** - Master's Degree | Faculty of Sciences of Montpellier & IAE of Montpellier| 2024-2026
@@ -30,7 +29,7 @@ The majority of my personal and professional projects are on my GitHub repositor
 [![OpenGl](https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff)](#)
 ![OpenCL](https://img.shields.io/badge/OpenCL-Compute_API-2C2C2C?logo=opencl&logoColor=white)
 ![RenderDoc](https://img.shields.io/badge/RenderDoc-Frame_Debugger-0A0A0A?logo=renderdoc&logoColor=white)
-
+[![Vulkan](https://img.shields.io/badge/Vulkan-AE0F28?logo=Vulkan&logoColor=fff)](#)
 
 
 **Games Engines for game development :**
